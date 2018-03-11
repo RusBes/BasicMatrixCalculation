@@ -1,0 +1,5 @@
+E:\MyProject\C# projects\C#Libraries\Matrix\BaseMatrixCalculation\bin\Debug\BaseMatrixCalculation.dll
+E:\MyProject\C# projects\C#Libraries\Matrix\BaseMatrixCalculation\bin\Debug\BaseMatrixCalculation.pdb
+E:\MyProject\C# projects\C#Libraries\Matrix\BaseMatrixCalculation\obj\Debug\BaseMatrixCalculation.csprojResolveAssemblyReference.cache
+E:\MyProject\C# projects\C#Libraries\Matrix\BaseMatrixCalculation\obj\Debug\BaseMatrixCalculation.dll
+E:\MyProject\C# projects\C#Libraries\Matrix\BaseMatrixCalculation\obj\Debug\BaseMatrixCalculation.pdb

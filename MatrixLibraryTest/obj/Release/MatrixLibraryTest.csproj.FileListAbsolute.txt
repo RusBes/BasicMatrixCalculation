@@ -1,0 +1,8 @@
+E:\MyProject\C# projects\C#Libraries\Matrix\MatrixLibraryTest\bin\Release\MatrixLibraryTest.dll
+E:\MyProject\C# projects\C#Libraries\Matrix\MatrixLibraryTest\bin\Release\MatrixLibraryTest.pdb
+E:\MyProject\C# projects\C#Libraries\Matrix\MatrixLibraryTest\bin\Release\BaseMatrixCalculation.dll
+E:\MyProject\C# projects\C#Libraries\Matrix\MatrixLibraryTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\MyProject\C# projects\C#Libraries\Matrix\MatrixLibraryTest\bin\Release\BaseMatrixCalculation.pdb
+E:\MyProject\C# projects\C#Libraries\Matrix\MatrixLibraryTest\obj\Release\MatrixLibraryTest.csprojResolveAssemblyReference.cache
+E:\MyProject\C# projects\C#Libraries\Matrix\MatrixLibraryTest\obj\Release\MatrixLibraryTest.dll
+E:\MyProject\C# projects\C#Libraries\Matrix\MatrixLibraryTest\obj\Release\MatrixLibraryTest.pdb
