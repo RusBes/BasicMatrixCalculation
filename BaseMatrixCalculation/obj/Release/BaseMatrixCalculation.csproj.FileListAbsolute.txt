@@ -1,4 +1,0 @@
-E:\MyProject\C# projects\C#Libraries\Matrix\BaseMatrixCalculation\bin\Release\BaseMatrixCalculation.dll
-E:\MyProject\C# projects\C#Libraries\Matrix\BaseMatrixCalculation\bin\Release\BaseMatrixCalculation.pdb
-E:\MyProject\C# projects\C#Libraries\Matrix\BaseMatrixCalculation\obj\Release\BaseMatrixCalculation.dll
-E:\MyProject\C# projects\C#Libraries\Matrix\BaseMatrixCalculation\obj\Release\BaseMatrixCalculation.pdb
